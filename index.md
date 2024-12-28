@@ -8,7 +8,7 @@ opener-image-alt-text: "An illustration of an enormous book. It is open, and its
 opener-image-position: "0 60%"
 ---
 
-# Modern English Translations of Chinese Classics 
+# Modern English Translations of Chinese Classicss
 
 The Electric Book template is a code framework for producing **web books, ebooks, and print books from a single content source.** It is [packed with features for professional book production](#features), and lets team members collaborate on projects remotely. You're looking at the default website it generates. {% if  output-docs == true %}[Read the docs]({{ site.baseurl }}/docs/){:.button}{% endif %}
 
