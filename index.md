@@ -10,15 +10,12 @@ opener-image-position: "0 60%"
 
 # Modern English Translations of Chinese Classicss
 
-The Electric Book template is a code framework for producing **web books, ebooks, and print books from a single content source.** It is [packed with features for professional book production](#features), and lets team members collaborate on projects remotely. You're looking at the default website it generates. {% if  output-docs == true %}[Read the docs]({{ site.baseurl }}/docs/){:.button}{% endif %}
-
-
 <div class="feature-boxes">
 
 {% include feature-box
-   text="The template includes [a blank book](book/0-3-contents.html) to add your content to."
+   text="Personal translation of the [Dao de Jing](daodejing/0-3-contents.html)."
    image="logo.svg"
-   link="book/0-3-contents.html"
+   link="daodejing/0-3-contents.html"
 %}
 
 {% include feature-box
