@@ -1,14 +1,14 @@
 # The name of the organisation or entity that owns this project
-organisation: "Electric Book Works"
+organisation: "Raymond Lee"
 
 # A live web address for the organisation
 url: "http://ebw.co/template"
 
 # The default contact email address
-email: "support@electricbookworks.com"
+email: "rlee@heimagongsi.org"
 
 # The name of the project of books in this folder.
-name: "The Electric Book template"
+name: "Classic Chinese Translations"
 
 # A one-liner about this project. Useful for Open Graph metadata.
 description: "This is Electric Book template, a way to build websites, books and ebooks from the same master content. Created and maintained by Electric Book Works."
