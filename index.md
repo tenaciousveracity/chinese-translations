@@ -8,7 +8,7 @@ opener-image-alt-text: "An illustration of an enormous book. It is open, and its
 opener-image-position: "0 60%"
 ---
 
-# Book-making with superpowers
+# Modern English Translations of Chinese Classics 
 
 The Electric Book template is a code framework for producing **web books, ebooks, and print books from a single content source.** It is [packed with features for professional book production](#features), and lets team members collaborate on projects remotely. You're looking at the default website it generates. {% if  output-docs == true %}[Read the docs]({{ site.baseurl }}/docs/){:.button}{% endif %}
 
@@ -74,17 +74,6 @@ To see how these examples look in other formats, [download PDF and epub versions
 
 
 <div class="color-panel text-000 links-ccc" markdown="1">
-
-## How to start now
-
-{% include video
-   id="XmZ2mn8Vyy0"
-   image="ebt-setup-video.png"
-   description="Arthur Attwell, from Electric Book Works, explains how to start a new book in minutes."
-   %}
-
-</div>
-
 
 ## Features
 
