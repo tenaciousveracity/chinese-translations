@@ -40,19 +40,19 @@ language: "en"
 
 # Official, original publication date
 # YYYY-MM-DD
-date: "2022-01-01"
+date: "2024-12-29"
 
 # Date of last revision
 # YYYY-MM-DD
-modified: "2022-01-01"
+modified: "2024-12-29"
 
 # Book type, e.g. Novel, Poetry, Memoir
-type: ""
+type: "Classic Chinese Philosophy"
 
 # Subject areas
 # E.g. BISAC: https://bisg.org/page/BISACEdition
 #      BIC: https://ns.editeur.org/bic_categories
-subject: ""
+subject: "Chinese Philosophy"
 
 # ISBN or UUID
 identifier: ""
@@ -84,11 +84,27 @@ products:
 
   # Details about the website version of this work
   web:
-
+    date: "2024-12-29" 
+    toc:
+      - label: "Dao Jing"
+        file: "02-dao-jing"
+      - label: "De Jing"
+        file: "03-de-jing"
+    nav:
+      - label: "Dao Jing"
+        file: "02-dao-jing"
+      - label: "De Jing"
+        file: "03-de-jing"
     # Format
     # e.g. Paperback, Digital download, Digital online
     format: "Online" # e.g. Paperback, Digital download, Digital online
+    
+    # At which file should users start reading?
+    start-page: "02-dao-jing"
 
+    # Your contents-page file, if you have one.
+    contents-page: "00-03-contents"
+  
   # Details about the epub version of this work
   epub:
 
@@ -101,7 +117,7 @@ products:
     # Specify it here or with a 'toc' value
     # at the relevant file in the files list below.
     contents-page: "0-3-contents"
-
+    
     # Accessibility metadata to inform users
     # about the accessibility features in this epub.
     accessibility:
