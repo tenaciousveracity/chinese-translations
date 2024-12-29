@@ -52,7 +52,7 @@ style: default-page page-1
 
 -   The Dao rushes out, used but never emptied.
 -   How profound, all things appear to take after it.
-
+-   
 -   Dampen the sharpness,
 -   Separate out the confusion,
 -   Likewise with brightness
@@ -70,7 +70,7 @@ style: default-page page-1
 -   because to them all things are like sacrificial offerings;
 -   The Sage is not benevolent,
 -   likewise seeing common people as straw dogs.
-
+-   
 -   The space between Heaven and Earth,
 -   is it not like a bellow, blowing in and out?
 -   The more it moves, the more comes out.
@@ -230,4 +230,47 @@ style: default-page page-1
 -   Use it to safeguard the present.
 -   
 -   Being aware of the primordial, this is called following the Dao
+{:.verse}
+
+### **15** The Ancient Masters
+古之善為士者，微妙玄通，深不可識。夫唯不可識，故強為之容。豫兮若冬涉川；猶兮若畏四鄰；儼兮其若容；渙兮若冰之將釋；敦兮其若樸；曠兮其若谷；混兮其若濁；孰能濁以靜之徐清？孰能安以久動之徐生？保此道者，不欲盈。夫唯不盈，故能蔽不新成。
+
+-   The ancient masters of virtue were subtle, mysterious, and connected,
+-   their depths cannot be recorded,
+-   Hence they cannot be described, but I will make an effort to do so.
+-   
+-   How cautious, as if crossing a river during 2inter;
+-   How alert, as if wary of their entire surroundings.
+-   
+-   How respectful, as if reverent;
+-   How fluid, as if ice dissipating,
+-   How simple, as if unworked wood;
+-   How vast, as if a valley;
+-   How turbid, as if muddy water.
+-   
+-   Who can remain still while the turbidity slowly clears?
+-   Who can be peaceful for a long time, living gently?
+-   
+-   Protecting these endeavors is the road to Dao, not desiring excesses.  
+-   Thus, not seeking excesses, they are able to avoid having to change to succeed.
+{:.verse}
+
+### **16** Roots
+致虛極，守靜篤。萬物並作，吾以觀復。夫物芸芸，各復歸其根。歸根曰靜，是謂復命。復命曰常，知常曰明。不知常，妄作凶。知常容，容乃公，公乃王，王乃天，天乃道，道乃久，沒身不殆。
+
+-   Exemplify emptiness to the utmost, 
+-   maintain stillness in earnest.
+-   
+-   All things and all matter, I’ve watched them come and go. 
+-   All of mankind, each of us returning back to our roots.
+-   
+-   Returning to one’s root is to remain still.
+-   We can call this one’s life.
+-   
+-   Answering one’s own life, you can speak wisely.
+-   Not always knowing, but acting with spontaneity.
+-   Maintain the appearance,
+-   of appearing noble,
+-   A noble to a king, a king to Heaven, the Heaven to Dao, the Dao to the Infinite. 
+-   The ending of one’s body is not perilous. 
 {:.verse}
