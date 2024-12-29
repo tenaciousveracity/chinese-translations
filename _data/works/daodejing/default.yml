@@ -84,9 +84,6 @@ products:
 
   # Details about the website version of this work
   web:
-<<<<<<< Updated upstream
-
-=======
     date: "2024-12-29" 
     toc:
       - label: "道經 - Dao Jing"
@@ -98,7 +95,7 @@ products:
         file: "01-dao-jing"
       - label: "德經 - De Jing"
         file: "02-de-jing"
->>>>>>> Stashed changes
+
     # Format
     # e.g. Paperback, Digital download, Digital online
     format: "Online" # e.g. Paperback, Digital download, Digital online
