@@ -14,7 +14,7 @@ contributor: "Translated by Raymond Lee"
 
 # The book's blurb
 description: |
-  The Electric Book's blank template.
+  A modern translation of the Dao de Jing, the ancient Chinese text that has been translated into English more than any other book except the Bible. This version is a fresh, contemporary translation that captures the spirit of the original text while making it accessible to a modern audience.
 
 # A image representing the book,
 # usually the front cover.
@@ -88,7 +88,7 @@ products:
     toc:
       - label: "道經 - Dao Jing"
         file: "01-dao-jing"
-      - label: "德經 -De Jing"
+      - label: "德經 - De Jing"
         file: "02-de-jing"
     nav:
       - label: "道經 - Dao Jing"
