@@ -1,6 +1,9 @@
-# The Electric Book template
+# Chinese Translations 
 
-A Jekyll template for creating books in multiple formats:
+My own personal translations of Classic Chinese texts presented using Electric Books Work template.
+
+
+## Features and instructions
 
 - print PDFs for high-end book publishing
 - screen PDFs for reading on screen

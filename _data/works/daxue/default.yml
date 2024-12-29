@@ -1,20 +1,20 @@
 # Information about this book
 
 # The book's main title
-title: "Template"
+title: "Da Xue (The Great Learning)"
 
 # The subtitle, if any
 subtitle: ""
 
 # The author
-creator: ""
+creator: "Raymond Lee"
 
 # Other contributors
 contributor: ""
 
 # The book's blurb
 description: |
-  The Electric Book's blank template.
+  Modern translation of the Da Xue, one of the Four Books of Confucianism. This version is a fresh, contemporary translation that captures the spirit of the original text while making it accessible to a modern audience.
 
 # A image representing the book,
 # usually the front cover.
@@ -40,14 +40,14 @@ language: "en"
 
 # Official, original publication date
 # YYYY-MM-DD
-date: "2022-01-01"
+date: "2024-12-29"
 
 # Date of last revision
 # YYYY-MM-DD
-modified: "2022-01-01"
+modified: "2024-12-29"
 
 # Book type, e.g. Novel, Poetry, Memoir
-type: ""
+type: "Classic Chinese Text"
 
 # Subject areas
 # E.g. BISAC: https://bisg.org/page/BISACEdition

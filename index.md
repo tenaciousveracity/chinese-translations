@@ -13,9 +13,15 @@ opener-image-position: "0 60%"
 <div class="feature-boxes">
 
 {% include feature-box
-   text="Personal translation of the [Dao de Jing](daodejing/0-3-contents.html)."
+   text="Personal translation of the [Dao de Jing](daodejing/)."
    image="logo.svg"
-   link="daodejing/0-3-contents.html"
+   link="daodejing/"
+%}
+
+{% include feature-box
+   text="Personal translation of the [Da Xue](daxue/)."
+   image="logo.svg"
+   link="daxue/"
 %}
 
 {% include feature-box

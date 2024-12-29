@@ -91,11 +91,17 @@ products:
       - label: "德經 - De Jing"
         file: "02-de-jing"
     nav:
-      - label: "道經 - Dao Jing"
+      - label: "道經 - 1Dao Jing"
         file: "01-dao-jing"
       - label: "德經 - De Jing"
         file: "02-de-jing"
-
+    files:
+      - "index"
+      - "0-1-titlepage"
+      - "0-2-copyright"
+      - "0-3-contents"
+      - "01-dao-jing"
+      - "02-de-jing"
     # Format
     # e.g. Paperback, Digital download, Digital online
     format: "Online" # e.g. Paperback, Digital download, Digital online

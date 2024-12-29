@@ -11,7 +11,7 @@ email: "rlee@heimagongsi.org"
 name: "Classic Chinese Translations"
 
 # A one-liner about this project. Useful for Open Graph metadata.
-description: "This is Electric Book template, a way to build websites, books and ebooks from the same master content. Created and maintained by Electric Book Works."
+description: "This is a repository of my English translations of Classic Chinese Texts using the Electric Book template. Created and maintained by Raymond Lee."
 
 # The logo of the organisation, saved web-ready in /assets
 logo: "logo.svg"
