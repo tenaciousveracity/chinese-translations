@@ -91,7 +91,7 @@ products:
       - label: "德經 - De Jing"
         file: "02-de-jing"
     nav:
-      - label: "道經 - 1Dao Jing"
+      - label: "道經 - Dao Jing"
         file: "01-dao-jing"
       - label: "德經 - De Jing"
         file: "02-de-jing"

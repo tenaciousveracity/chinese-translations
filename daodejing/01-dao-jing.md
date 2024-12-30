@@ -1,5 +1,5 @@
 ---
-title: "1. Dao Jing (道經; chapters 1–37)"
+title: "1. Dao Jing"
 style: default-page page-1
 ---
 

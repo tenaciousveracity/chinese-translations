@@ -1,5 +1,5 @@
 ---
-title: "2. De Jing (德經; chapters 38–81)"
+title: "2. De Jing"
 ---
 
 ### **38** Acting with Decorum
