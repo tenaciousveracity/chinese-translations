@@ -37,8 +37,6 @@ opener-image-position: "0 60%"
 
 </div>
 
-You'll find [the open-source repository on GitHub](https://github.com/electricbookworks/electric-book).
-
 <div class="color-panel background-000 text-fff links-ccc" markdown="1">
 
 ## About This Collection
