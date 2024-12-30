@@ -100,7 +100,7 @@ style: default-page page-1
 -   Is that not selflessness? Thus, their goals will be accomplished.
 {:.verse}
 
-### **8** Timelessness
+### **8** Water
 上善若水。水善利萬物而不爭，處衆人之所惡，故幾於道。居善地，心善淵，與善仁，言善信，正善治，事善能，動善時。夫唯不爭，故無尤。
 
 -   The highest good is like water.
