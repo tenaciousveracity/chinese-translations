@@ -20,6 +20,9 @@ image: "cover.jpg"
 # Other contributors
 contributor: ""
 
+#Pubhlished
+published: false
+
 # Publisher, imprint or brand name
 publisher: "Electric Book Works"
 

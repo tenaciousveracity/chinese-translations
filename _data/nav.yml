@@ -11,8 +11,8 @@ en:
   - label: "Contact us"
     file: "contact"
 
-fr:
-  - label: "À propos de nous"
-    file: "fr/about"
-  - label: "Nous contacter"
-    file: "fr/contact"
+#fr:
+#  - label: "À propos de nous"
+#    file: "fr/about"
+#  - label: "Nous contacter"
+#    file: "fr/contact"
