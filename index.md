@@ -8,7 +8,7 @@ style: home
 #opener-image-position: "0 60%"
 ---
 
-# Modern English Translations of Chinese Classicss
+# Modern English Translations of Chinese Classics
 
 <div class="feature-boxes">
 

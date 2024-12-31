@@ -44,7 +44,7 @@ baseurl: "/chinese-translations"
 # If you're publishing a website on GitHub Pages
 # and want to ensure you're using a compatible setup,
 # add username/repository here and uncomment/enable
-# gem 'github-pages', group: :jekyll_plugins
+gem 'github-pages', group: :jekyll_plugins
 # in this project's Gemfile.
 repository: ""
 
