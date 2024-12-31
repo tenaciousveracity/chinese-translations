@@ -139,7 +139,7 @@ web:
       # Should your project navigation (in _data/nav.html)
       # appear before or after your book navigation?
       # Default is before.
-      position: before
+      position: after
   # --------------
   # Search
   # --------------
