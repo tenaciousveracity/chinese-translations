@@ -21,7 +21,7 @@ style: home
 {% include feature-box
    text="Personal translation of the [Da Xue](daxue/)."
    image="logo.svg"
-   link="daxue/"
+   link="daxue/01.html"
 %}
 
 {% include feature-box
