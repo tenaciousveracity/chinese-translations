@@ -19,13 +19,13 @@ style: home
 %}
 
 {% include feature-box
-   text="Personal translation of the [Da Xue](daxue/)."
+   text="Personal translation of the [Da Xue](daxue/01.html)."
    image="logo.svg"
    link="daxue/01.html"
 %}
 
 {% include feature-box
-   text="Personal translation of the [SanZiJing](sanzijing/01.html)."
+   text="Personal translation of the [San Zi Jing](sanzijing/01.html)."
    image="logo.svg"
    link="sanzijing/01.html"
 %}
@@ -47,14 +47,7 @@ style: home
 
 ## About This Collection
 
-[data]
+Created and maintained by Raymond Lee.
 
 </div>
 
-## Themes 
-
-[data]
-
-## About the Translations
-
-[data]
