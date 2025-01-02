@@ -97,8 +97,6 @@ products:
         file: "02-de-jing"
     files:
       - "index"
-      - "0-1-titlepage"
-      - "0-2-copyright"
       - "0-3-contents"
       - "01-dao-jing"
       - "02-de-jing"
