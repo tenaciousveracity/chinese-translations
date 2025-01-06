@@ -69,13 +69,13 @@ style: default-page page-1
 -   Heaven and Earth are not benevolent, 
 -   because to them all things are like sacrificial offerings;
 -   The Sage is not benevolent,
--   likewise seeing common people as straw dogs.
+-   likewise seeing commoners as straw dogs.
 -   
 -   The space between Heaven and Earth,
 -   is it not like a bellow, blowing in and out?
 -   The more it moves, the more comes out.
 -   The more words said, the less they matter,
--   Not as good as holding the Center.
+-   Not as good as holding onto the Center.
 {:.verse}
 
 ### **6** Valley Spirit
@@ -105,7 +105,7 @@ style: default-page page-1
 
 -   The highest good is like water.
 -   Water’s goodness benefits all those exist without complaining,
--   residing where everyone deems evil,
+-   residing where all deem evil,
 -   thus it is close to the Dao.
 -   
 -   Live virtuously on Earth,
@@ -114,7 +114,7 @@ style: default-page page-1
 -   Govern duly and rightfully,
 -   Handle matters capably,
 -   Act virtuously in due time.
--   There will be no contention, therefore no faults.
+-   There will be no contention, thereby no faults.
 {:.verse}
 
 ### **9** Gold and Jade
@@ -122,9 +122,9 @@ style: default-page page-1
 
 -   Grasping something that is full is not as good as when it’s empty;
 -   Counting acutely, you cannot keep the tally for long.
--   Overbrimmed with gold and jade, makes it impossible to safeguard.
+-   Overbrimmed with gold and jade, makes a room impossible to safeguard.
 -   
--   Riches and pride leads one to misfortune.
+-   Riches and pride leads to one's misfortune.
 -   When work is done and accomplished, achievements return to Heaven, back to the Dao.
 {:.verse}
 
@@ -146,14 +146,14 @@ style: default-page page-1
 -   Able to opening and close Heaven’s door,
 -   is that not the Feminine power?
 -   
--   Reaching for all four directions,
--   who is the one without knowledge?
+-   Striving for all four directions,
+-   who will be the one without knowledge?
 -   
--   To give birth, 
--   to nurture, 
--   to create and not claim ownership,
--   acting without presumptions, 
--   leading without dominance,
+-   To give birth,
+-   to nurture,
+-   to create and not claim ownership.
+-   Acting without presumptions,
+-   leading without domineering,
 -   This is called the Profound Virtue (Xuan De).
 {:.verse}
 
@@ -164,7 +164,7 @@ style: default-page page-1
 -   Mud and clay form a container, having nothing inside, makes it useful.
 -   
 -   Chiseling windows and doors for a room,
--   both containing nothing, yet provide use for the room.
+-   both contain nothing, yet provide use for the room.
 -   
 -   Thus, having determines benefits,
 -   Nothingness defines usefulness.
@@ -209,17 +209,17 @@ style: default-page page-1
 
 -   Looking at it we cannot see it, calling it smooth;
 -   Listening to it we cannot hear it, calling it faint;
--   Seizing for we cannot grab it, calling it abstruse. 
+-   Seizing for we cannot grab it, calling it abstruse.
 -   
 -   These three aspects cannot define it,
--   thus combine them to become One.
+-   thus combine them to become one.
 -   
 -   From above, it’s not so bright,
 -   from below, it’s not so dark.
 -   Threads entwined that have no name,
 -   returning back to Wu Wei.
 -   
--   It is said to have no form, 
+-   It is said to have no form,
 -   the appearance of nothing,
 -   as if a hazy dream.
 -   
@@ -227,7 +227,7 @@ style: default-page page-1
 -   Following it, you will not see its back.
 -   
 -   Grasp the ancient ways of the Dao,
--   Use it to safeguard the present.
+-   Use it to protect the present.
 -   
 -   Being aware of the primordial, this is called following the Dao
 {:.verse}
@@ -236,39 +236,39 @@ style: default-page page-1
 古之善為士者，微妙玄通，深不可識。夫唯不可識，故強為之容。豫兮若冬涉川；猶兮若畏四鄰；儼兮其若容；渙兮若冰之將釋；敦兮其若樸；曠兮其若谷；混兮其若濁；孰能濁以靜之徐清？孰能安以久動之徐生？保此道者，不欲盈。夫唯不盈，故能蔽不新成。
 
 -   The ancient masters of virtue were subtle, mysterious, and connected,
--   their depths cannot be recorded,
+-   their depths cannot be fathomed,
 -   Hence they cannot be described, but I will make an effort to do so.
 -   
--   How cautious, as if crossing a river during 2inter;
+-   How cautious, as if crossing a river during winter;
 -   How alert, as if wary of their entire surroundings.
 -   
--   How respectful, as if reverent;
+-   How respectful, as if always reverent;
 -   How fluid, as if ice dissipating,
 -   How simple, as if unworked wood;
--   How vast, as if a valley;
+-   How vast, as if a chasm;
 -   How turbid, as if muddy water.
 -   
 -   Who can remain still while the turbidity slowly clears?
 -   Who can be peaceful for a long time, living gently?
 -   
 -   Protecting these endeavors is the road to Dao, not desiring excesses.  
--   Thus, not seeking excesses, they are able to avoid having to change to succeed.
+-   Thus, not seeking excesses, they are able to avoid changing in order to succeed.
 {:.verse}
 
 ### **16** Roots
 致虛極，守靜篤。萬物並作，吾以觀復。夫物芸芸，各復歸其根。歸根曰靜，是謂復命。復命曰常，知常曰明。不知常，妄作凶。知常容，容乃公，公乃王，王乃天，天乃道，道乃久，沒身不殆。
 
--   Exemplify emptiness to the utmost, 
--   maintain stillness in earnest.
+-   Exemplify emptiness to the utmost,
+-   maintain stillness in earnestness.
 -   
--   All things and all matter, I’ve watched them come and go. 
+-   All things and all matter, I’ve seen them come and go.
 -   All of mankind, each of us returning back to our roots.
 -   
 -   Returning to one’s root is to remain still.
--   We can call this one’s life.
--   
--   Answering one’s own life, you can speak wisely.
+-   We can call this one’s fate.  
+-   Answering one’s own fate, you can speak wisely.
 -   Not always knowing, but acting with spontaneity.
+-   
 -   Maintain the appearance,
 -   of appearing noble,
 -   A noble to a king, a king to Heaven, the Heaven to Dao, the Dao to the Infinite. 
@@ -278,7 +278,7 @@ style: default-page page-1
 ### **17** High-pedestals 
 太上，下知有之；其次，親而譽之；其次，畏之；其次，侮之。信不足，焉有不信焉。悠兮，其貴言。功成事遂，百姓皆謂我自然。
 
--   The highest above are recognized by those under them,
+-   The highest above are revered by those below them,
 -   Afterwards, they are favored and praised,
 -   Next, they are feared,
 -   Finally, they are ridiculed.
@@ -286,14 +286,14 @@ style: default-page page-1
 -   Where there’s not enough faith, how can there be trust?
 -   Drawn out are words of praise.
 -   
--   When work is done and completed, everyone will naturally say “I did it”. 
+-   When work is done and completed, everyone will naturally say “I did it”.
 {:.verse}
 
 ### **18** Chaos and Union
 大道廢，有仁義；智慧出，有大偽；六親不和，有孝慈；國家昏亂，有忠臣。
 
 -   When the great Dao is forgotten, there is benevolence and righteousness;
--   Wisdom comes out, though contains great falsities;
+-   Wisdom comes out, though it contains great falsities;
 -   
 -   Six relations who do not get along, will find union and compassion;
 -   A nation in chaos, brings about faithful protectors.
@@ -308,14 +308,14 @@ style: default-page page-1
 -   
 -   These three ideas cannot be conveyed with words alone.
 -   So, lead your subordinates by meeting them unadorned, exemplifying simplicity,
--   lacking selfishness and dispersing desires.
+-   lacking selfishness, and dispersing desires.
 {:.verse}
 
 ### **20** Unmoved
 絕學無憂，唯之與阿，相去幾何？善之與惡，相去若何？人之所畏，不可不畏。荒兮其未央哉！衆人熙熙，如享太牢，如春登臺。我獨怕兮其未兆；如嬰兒之未孩；儽儽兮若無所歸。衆人皆有餘，而我獨若遺。我愚人之心也哉！沌沌兮，俗人昭昭，我獨若昏。俗人察察，我獨悶悶。澹兮其若海，飂兮若無止，衆人皆有以，而我獨頑似鄙。我獨異於人，而貴食母。
 
 -   Ceasing one’s studies is to be without worries,
--   alone in the moment, how many times do appearances change? 
+-   Alone in the moment, how many times do appearances change? 
 -   
 -   Good and evil, appear to turn into each other?
 -   That which people fear, we must not be afraid.
@@ -329,7 +329,7 @@ style: default-page page-1
 -   Tired and worn out, not having anywhere to belong.
 -   The majority have abundances, which I alone leave behind.
 -   
--   I’m an ignorant person, with a heart that’s similar. 
+-   I’m an ignorant person, with a heart that’s similar.
 -   
 -   When chaos and turbulence erupts,
 -   Others sprout up to shine, I alone am muddle-headed.
@@ -345,19 +345,19 @@ style: default-page page-1
 -   graciously nourished by Mother Earth.
 {:.verse}
 
-### **21** essence
+### **21** Essence
 孔德之容，唯道是從。道之為物，唯恍唯惚。忽兮恍兮，其中有象；恍兮忽兮，其中有物。窈兮冥兮，其中有精；其精甚真，其中有信。自古及今，其名不去，以閱衆甫。吾何以知衆甫之狀哉？以此。
 
 -   Contain the virtue of emptiness, be alone with the Dao.
 -   The Dao exists, it’s flurried and indistinct.
 -   
 -   Hazily, suddenly, among it takes form,
--   Profoundly, deeply, therein lies the essence.
+-   Profoundly, deeply, therein lies the Jing (essence).
 -   
--   The genuine, overwhelming essence,
+-   The genuine, overwhelming Jing (essence),
 -   wherein there is trust.
 -   
--   From ancient times to now, its name remains. 
+-   From ancient times to now, its name remains.
 -   How do I know it’s form?
 -   
 -   Because of this.
@@ -368,21 +368,20 @@ style: default-page page-1
 
 -   Brokenness follows completeness,
 -   crookedness follows straightness,
--   depletion follows excesses,
+-   depletion follows excess,
 -   counterfeits follows progress.
--   
--   Losing follows obtaining,
--   Too many norms leads to confusion.
+-   losing follows obtaining,
+-   too many norms leads to confusion.
 -   
 -   Therefore, the Sage, serves to act in accordance with Heaven.
--   Not seeing themselves as being bright,
+-   Not seeing themselves as bright,
 -   Not conspicuous to oneself,
--   Not self-boasting, leading to achievements.
--   Not blowing one’s horn, therefore lasting. 
+-   Not self-boasting, thereby leading to achievements.
+-   Not blowing one’s horn, therefore lasting.
 -   
 -   Not fighting the work to be done, hence, there is none under Heaven who can argue.
 -   The Ancients said ‘brokenness follows completeness’, what empty words!
--   When the process completes, it returns back.
+-   When the process completes, it goes back.
 {:.verse}
 
 ### **23** Faith
@@ -403,7 +402,7 @@ style: default-page page-1
 -   Those who are lacking are akin to failure,
 -   
 -   When practicing Daoism, the Dao is happily obtained,
--When practicing virtuosity, virtues are happily obtained.
+-   When practicing virtuosity, virtues are happily obtained.
 -   When lacking, failure is happily obtained.
 -   
 -   If there is not enough faith, how can there be trust?
@@ -412,18 +411,18 @@ style: default-page page-1
 ### **24** Excesses
 企者不立；跨者不行；自見者不明；自是者不彰；自伐者無功；自矜者不長。其在道也，曰：餘食贅行。物或惡之，故有道者不處。
 
--   Striving upward, unable to stand;
--   Straddling long, unable to walk;
--   Seeing oneself, unable to understand;
--   Defining oneself, unable to be clear;
--   Self-denigrating oneself, unable to succeed;
--   Boasting oneself, unable to last.
+-   Those striving upward, are unable to stand;
+-   Those straddling long, are unable to walk;
+-   Those perceiving oneself, are unable to understand;
+-   Those defining oneself, are unable to be clear;
+-   Those self-denigrating oneself, are unable to succeed;
+-   Those boasting oneself, are unable to last.
 -   
 -   To be with the Dao, is to say:
--   “Too much food and unneeded excesses”
+-   “There's too much food and unneeded excesses”
 -   
 -   These things might bring harm,
--   Thus having the Dao means not dwelling.
+-   thus obtaining the Dao means not dwelling.
 {:.verse}
 
 ### **25** Vast
@@ -433,20 +432,20 @@ style: default-page page-1
 -   How Silent! How Lonesome!
 -   Alone and non-changing,
 -   Perfectly complete, never dying,
--   Able to do so because it is the Earth’s mother. 
+-   Able to do so because it is the Earth’s mother.
 -   
--   I do not know its name. 
+-   I do not know its name,
 -   The word we use is ‘Dao’
 -   With some thought, I call it Vast.
 -   
--   Vast meaning it passes by, 
+-   Vast meaning it passes by,
 -   Passes by, it is distant,
 -   at a distance, it is said to be returning.
 -   
--   Thus the ‘Dao’ is Vast, Heaven is Vast, Earth is Vast, the King is also Vast. 
--   The land we live on has these four ‘Vasts’, where the King resides. 
+-   Thus the ‘Dao’ is Vast, Heaven is Vast, Earth is Vast, the King is also Vast.
+-   The land we live on has these four ‘Vasts’, where the King resides.
 -   
--   People follow Earth, Earth follows Heaven, Heaven follows the Dao, Dao follows Zi Ran (it's nature). 
+-   People follow Earth, Earth follows Heaven, Heaven follows the Dao, Dao follows Zi Ran (nature).
 {:.verse}
 
 ### **26** Heaviness
@@ -460,7 +459,7 @@ style: default-page page-1
 -   
 -   How can their body be so light under Heaven?
 -   Lightness leads to one losing their roots.
--   Hot-headedness leads to one’s demise. 
+-   Hot-headedness leads to one’s demise.
 {:.verse}
 
 ### **27** Spreading Enlightenment
@@ -475,7 +474,7 @@ style: default-page page-1
 -   Thus, the Sage, is always good, saving others, hence, not abandoning others.
 -   Always good, rescuing all things, hence, not abandoning anything.
 -   
--   This can be called “Spreading Enlightnement.
+-   This can be called “Spreading Enlightnement".
 -   Good people become not-so-good people’s teacher.
 -   Not-so-good people become good people’s support.
 -   
@@ -490,12 +489,12 @@ style: default-page page-1
 -   Guarding the feminine,
 -   Serving like a stream under Heaven.
 -   
--   Serving as a stream under Heaven, always virtuous, never leaving, returning to infanthood.
--   Know the White, guard the Black, taking form under heaven,
--   Always virtuous, not erring, returning back to the eternal.
+-   Serving like a stream under Heaven means always virtuous, never leaving, returning to infanthood.
+-   Know the White, guard the Black, take form under heaven,
+-   Always virtuous, not erring, return back to the eternal.
 -   
--   Know honor, guard dishonor, serve as the Valley under Heaven.
--   Act as the Valley under Heaven, always overbrimming with virtuosity, and returning to simplicity.
+-   Know honor, guard against dishonor, serve as the Valley below Heaven.
+-   Act as the Valley under Heaven, always brimmed with virtuosity, and returning to simplicity.
 -   
 -   Simplicity is a tool the Sage uses to officiate to not cut apart great machinations.
 {:.verse}
@@ -511,7 +510,7 @@ style: default-page page-1
 -   They may be strong or they may be weak;
 -   They might be suppressed or they might overpower.
 -   
--   Thus, the Sage dismisses excesses, dismisses extravagance, dismisses grandeur. 
+-   Thus, the Sage dismisses excesses, dismisses extravagance, dismisses grandeur.
 {:.verse}
 
 ### **30** Troops and Thistles
@@ -524,11 +523,11 @@ style: default-page page-1
 -   Amassing big armies, famine will certainly follow. 
 -   
 -   The Good acquires results and stops, not daring to take more,
--   not boasting, 
--   not downplaying, 
+-   not boasting,
+-   not downplaying,
 -   not arrogant.
 -  
--   Do not force results. 
+-   Do not force results.
 -   Strengthening things, oldens them.
 -   This is not the way of the Dao.
 -   Not the way of the Dao means an early end. 
@@ -539,39 +538,39 @@ style: default-page page-1
 
 -   Fine adept soldiers are not an auspicious a tool and perhaps an omen, 
 -   Therefore those following the Dao, do not use them.
--   The Noble stand still, honoring the Left, 
+-   The Noble stand still, honoring the Left,
 -   when employing troops, honor the Right.
 -   
 -   Military force is an ominous tool, the Noble do not employ.
 -   It is used as a last resort, tranquility and peace is best.
 -   
--   Victory is not beautiful, for its’ beauty involves delight in slaughter.
+-   Victory is not beautiful, for the beauty involves delight in slaughter.
 -   People who happily slaughter will have their ambitions cut short under Heaven.
 -   
 -   In auspicious matters, employ the Left,
 -   In violent matters, employ the Right.
 -   The army’s deputy general resides on the Left,
--   The commander-in-chief resides on the Right, leading mourning rites for the dead.
+-   The commander general resides on the Right, leading mourning rites for the dead.
 -   
 -   Mass killing leads to sorrow, sadness, and sobbing.
 -   Winning a war means dealing with funerals.
 {:.verse}
 
-### **32** Almighty
+### **32** Equanimity
 道常無名。樸雖小，天下莫能臣也。侯王若能守之，萬物將自賓。天地相合，以降甘露，民莫之令而自均。始制有名，名亦既有，夫亦將知止，知止所以不殆。譬道之在天下，猶川谷之與江海。
 
 -   The Dao is forever nameless.
 -   Even though plain and miniscule, there is none under Heaven who can serve it.
 -   
 -   If high official and kings are able to maintain it,
--   all things will act as their natural guests.
+-   all things will act as like natural guests.
 -   
 -   Heaven and Earth fit together, dripping sweet nectar,
 -   Commanding no one, thus there is natural equanimity.
 -   
 -   Creating systems, defining labels,
--   even though the name is already there,
--   yet men desire to know more and more,
+-   even though the name is already there.
+-   Yet men desire to know more and more,
 -   to stop one’s knowledge is not dangerous.
 -   
 -   Just like the Dao existing under Heaven,
@@ -588,7 +587,7 @@ style: default-page page-1
 -   
 -   Unyielding, having willpower.
 -   Not losing one’s place for a long time.
--   Dead, but not forgotten, thereby living long. 
+-   Dead, but not forgotten, thereby living long.
 {:.verse}
 
 ### **34** Greatness
@@ -596,24 +595,23 @@ style: default-page page-1
 
 -   Ah, how the Great Dao spreads,
 -   found on the left and right.
--   All things rely on it, born from it, yet never leaves it.
+-   All things rely on it, are born from it, yet never leaves it.
 -   Enrobing, supporting all things but not commanding.
 -   
--   Always desireless, we can call it tiny;
+-   Always without desire, we can call it tiny;
 -   All things return back to it, but doesn't act as their lord.
 -   
 -   It can be called Great.
--   In the end, it does not think itself as Great, 
--   thereby, able to turn into Greatness.
+-   In the end, it does not think itself as Great,
+-   therefore, able to turn into Greatness.
 {:.verse}
 
 ### **35** Invitation
 執大象，天下往。往而不害，安平大。樂與餌，過客止。道之出口，淡乎其無味，視之不足見，聽之不足聞，用之不足既。
 
 -   Grasping the Great form, all under Heaven will come.
--   Directing no harm, but greatly calming and soothing.
+-   Emitting no harm, but greatly calms and soothes;
 -   With music and pastries, passing travelers stop by.
--   
 -   The Dao outpouring is mild and tasteless;
 -   Looking for it, is not enough to see it.
 -   Listening for it, is not enough to hear it.
@@ -629,20 +627,21 @@ style: default-page page-1
 -   Willing to seize desires, you must undoubtedly let them go.
 -   
 -   This can be called, the ‘Profound Truth’
--   The soft and weak prevailing over the hard and strong.
+-   The soft and weak prevails over the hard and strong.
 -   
 -   Fish cannot escape deep ponds,
--   A country’s sharp weapons must not be displayed to people.
+-   A country’s sharp weapons must not be on display to people.
 {:.verse}
 
 ### **37** Simplicity
 道常無為而無不為。侯王若能守之，萬物將自化。化而欲作，吾將鎮之以無名之樸。無名之樸，夫亦將無欲。不欲以靜，天下將自定。
 
--   The Dao is always in the state of Wu Wei, hence there is nothing not done. 
+-   The Dao is always in the state of Wu Wei, 
+-   hence there is nothing that isn't done. 
 -   If nobles and kings are able to abide by the Dao,
 -   all things will, as a matter of course, change.
 -   
--   When changes and desires arise,
+-   When drastic changes and desires arise,
 -   I calm them down with a simplicity that’s nameless.
 -   
 -   Nameless simplicity disperses men’s desires.

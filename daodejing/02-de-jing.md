@@ -8,21 +8,23 @@ title: "2. De Jing"
 -   The most virtuous do not seem virtuous, therefore they have virtues;
 -   The least virtuous have no virtues to lose, therefore they lack virtue.
 -   The most virtuous engage in Wu Wei and not in thinking;
--   The least virtuous act and hold intentions.
+-   The least virtuous acts and hold intentions.
 -   
--   The most benevolent acts without thinking;
--   The highest justice acts with thought.
--   The highest decorum is created so that none can follow, then are resisted and thrown away. 
+-   The most benevolent acts without motives;
+-   The highest justice acts without deliberations.
+-   The highest decorum acts so that none can obey, then is rejected and thrown away.
 -   
--   Thus losing the Dao leads to virtues,
--   losing virtue leads to benevolence,
--   losing benevolence leads to justice,
--   losing justice leads to decorum.
--   But decorum’s loyalty is thin, its thoughts chaotic.
+-   Thus losing the Dao leads to virtues arising,
+-   losing virtues leads to benevolence arising,
+-   losing benevolence leads to justice arising,
+-   losing justice leads to decorum arising.
+-   But decorum’s loyalty and trust is thin, leading to chaos.
 -   
--   After knowing of the Dao’s superficial glamour, and foolishness’ beginnings.
--   Thus a man of character lives in the profound and not the superficial;
--   Resides in reality, not in glamour. Therefore leaving this and choosing that. 
+-   Foreknowledge is but the Dao’s superficial allure, 
+-   and the beginning of foolishness.
+-   A man of character lives in the substantial and not the superficial;
+-   Resides in reality, not the decorative.
+-   Therefore leaving the latter and choosing the former.
 {:.verse}
 
 ### **39** Oneness
@@ -34,59 +36,60 @@ title: "2. De Jing"
 -   Consciousness, became one, in order to be alert;
 -   Valley, became one, in order to be full;
 -   All thing, became one, in order to live;
--   Nobles and kings, being one, in order to become chaste under Heaven.
+-   Nobles and kings, being one, in order to become just guardians under Heaven.
 -   
--   Oneness causes it so, 
--   Heaven not being pure, leads fear to render it open;
--   Earth not being peaceful, leads fear to emanate;
--   Spirit not being alert, leads fear to reside;
--   Valley, not being full, leads fear to exhaust;
+-   Oneness causes it to be so,
+-   Heaven not pure, leads fear to render it open;
+-   Earth not peaceful, leads fear to emanate;
+-   Spirit not alert, leads fear to reside;
+-   Valley, not full, leads fear to exhaust;
 -   All things not living, leads fear to exterminate;
 -   Nobles and Kings lacking noble values, leads fear to trample about;
 -   
--   Therefore, nobility is lowly in origin, the high becoming low to serve as the foundation.
--   Thus, kings of nobility claim to be alone, scant, not that deep. 
--   Are these not lowly things to act as the stem? Really?
--   Therefore, conveying numerous acclamations is not to be praised.
--   Not desiring the jade to be jade, but seeing gems in necklaces as stones.
+-   Therefore, nobility is humbleness in origin, the high serves the low as a foundation.
+-   For this reason, kings of nobility claim to be lonely, unworthy, insignificant.
+-   It this not the root of humility? Could this be?
+-   
+-   Therefore, adorning excessive acclamations is not praiseworthy.
+-   One should not desire to be like polished jade,
+-   but steadfast like un-carved stones.
 {:.verse}
 
 ### **40** Nothingness 
 反者道之動；弱者道之用。天下萬物生於有，有生於無。
 
 -   Reversals set the Dao in motion;
--   Weakness employs the Dao.
+-   Weakness is to employ the Dao.
 -   
 -   Under Heaven all things are born from it,
--   bringing life from nothingness. 
+-   it brings life from nothingness.
 {:.verse}
 
 ### **41** Path of the Dao
 上士聞道，勤而行之；中士聞道，若存若亡；下士聞道，大笑之。不笑不足以為道。故建言有之：明道若昧；進道若退；夷道若纇；上德若谷；太白若辱；廣德若不足；建德若偷；質真若渝；大方無隅；大器晚成；大音希聲；大象無形；道隱無名。夫唯道，善貸且成。
 
--   When the superior scholar hears the Dao, they diligently walks with it;
--   When the middling scholar hears the Dao, they might store it or they might lose it;
--   When the lowly scholar hears the Dao, big laughs come out.
+-   When the superior scholar hears of the Dao, they diligently walks with it;
+-   When the middling scholar hears of the Dao, they might invest in it or they might lose it;
+-   When the lowly scholar hears of the Dao, big laughs come out.
 -   
 -   If there weren't big laughs, it wouldn't be the Dao.
 -   Thus, here are some suggestions:
 -   
--   Illuminating on the Dao makes it seem dark;
--   Progress on the Dao seems like regression;
--   Smoothing out the Dao seems to create more knots;
--   The highest goodness seems to be a valley;
--   The greatest purity seems to be impure;
--   Abundances of virtues seem to be insufficient;
--   Establishing one's goodness is akin to stealing;
--   Genuine character seems to be on the contrary;
--   
--   Great squares have no corners;
--   Great machinations take time to succeed;
--   Great sound strive for intonation;
--   Great appearances have no form;
+-   Illuminating on the Dao makes it seem dark,
+-   Progress on the Dao seems like regression,
+-   Smoothing out the Dao seems to create more knots,
+-   The highest goodness seems to be in the lowest places,
+-   The greatest purity seems to be impure,
+-   Abundances of virtues seem to be insufficient,
+-   Establishing one's goodness is akin to stealing,
+-   Genuine character seems to be the contrary,
+-   Great squares have no corners,
+-   Great machinations take time to succeed,
+-   Great sound strive to intonate,
+-   Great appearances have no form.
 -   
 -   The hidden Dao is obscure,
--   yet the Dao lends its Goodness to bring about success.
+-   yet the Dao lends it's Goodness to bring success.
 {:.verse}
 
 ### **42** Aloneness
@@ -94,16 +97,16 @@ title: "2. De Jing"
 
 -   The Dao gives birth to one, one gives birth to two, two gives birth to three, three gives birth to all things.
 -   
--   All things bear Yin and carry Yang, and by infusing Qi they come together. 
--   People hate to be alone, widowed, not deep, yet kings and nobles self-designate these titles. 
+-   All things bear Yin and carry Yang, and by infusing Qi they come together.
+-   People hate to be alone, widowed, not deep, yet kings and nobles self-designate these titles.
 -   
 -   Thus, all things might be losing and gaining, or gaining and losing.
 -   What people teach, I also teach.
--   "The strong and violent won’t die naturally", 
--   Using this as the seed of my teachings.
+-   "The strong and violent won’t die naturally",
+-   using this as the seed of my teachings.
 {:.verse}
 
-### **43** Wu Wei
+### **43** Wu Wei's Benefits
 天下之至柔，馳騁天下之至堅。無有入無間，吾是以知無為之有益。不言之教，無為之益，天下希及之。
 
 -   Under Heaven the weakest quickly dashes against the strongest under Heaven.
@@ -119,48 +122,48 @@ title: "2. De Jing"
 
 -   Name or body, which is the self?
 -   Body or material wealth, which matters more?
--   To obtain or lose, which one causes ill?
+-   To obtain or lose, which one causes illness?
 -   
--   Therefore, obsessive love is squandered;
+-   Thus, obsessive love will be squandered;
 -   Too many possesions leads to suffering heavy losses.
 -   
 -   To know when one is sufficient is not disgraceful,
--   To know when to stop is not dangerous,
--   this is how to to persist for a long time. 
+-   to know when to stop is not so dangerous.
+-   This is how to persist for a long time.
 {:.verse}
 
 ### **45** Hot and Cold
 大成若缺，其用不弊。大盈若沖，其用不窮。大直若屈，大巧若拙，大辯若訥。躁勝寒靜勝熱。清靜為天下正。
 
--   Great accomplishments appear incomplete, yet using it does not bring harm.
+-   Great accomplishments appear incomplete, yet using them does not bring harm.
 -   Great fullness seems to be flushed out, yet using it does not exhaust it.
--   Great straightness appear bent, 
+-   Great straightness appear bent,
 -   Great skills appear like awkwardness,
--   Great arguments appear incoherent. 
+-   Great arguments appear incoherent.
 -   
--   Hot tempers overcome cold,
--   Calmness overcomes heat.
+-   Hot tempers overcome the cold,
+-   Calmness overcomes the heated.
 -   Being still and calm is the proper way to serve under Heaven.
 {:.verse}
 
 ### **46** Horses
 天下有道，卻走馬以糞。天下無道，戎馬生於郊。禍莫大於不知足；咎莫大於欲得。故知足之足，常足矣。
 
--   Under Heaven having the Dao, retreating horses carry manure.
--   Under Heaven when there is no Dao, war horses are born in the outskirts.
+-   Under Heaven, having the Dao, retreating horses carry manure.
+-   Under Heaven, having no Dao, war horses are born in the outskirts.
 -   
 -   The greatest calamity is not knowing when enough is enough;
 -   The greatest misfortune is desiring more and more.
--   Thus, to know when enough is enough, is always enough. 
+-   Thus, to know when enough is enough, will always be enough.
 {:.verse}
 
 ### **47** Traveling
 不出戶知天下；不闚牖見天道。其出彌遠，其知彌少。是以聖人不行而知，不見而名，不為而成。
 
--   Not leaving the house, you can know all under Heaven;
--   Not peeking out the window, you can see Heaven’s Dao.
--   The farther you go, the less you will know. 
--   Thus, the Sage does not travel but knows, 
+-   Not leaving the house, you can know everything under Heaven;
+-   Not peeking out the window, you can see the Heaven’s Dao.
+-   The farther you go, the less you will know.
+-   Thus, the Sage does not travel but knows,
 -   Not seeing but recognizing,
 -   Not acting but accomplishing.
 {:.verse}
@@ -173,22 +176,22 @@ title: "2. De Jing"
 -   Not forcing actions, yet nothing is undone.
 -   
 -   Matters run their own course under Heaven,
--   And taking matters in one hand will not be enough to acquire what under Heaven.
+-   And taking matters in one hand will not be enough to acquire what is under Heaven.
 {:.verse}
 
 ### **49** Unbiased
 聖人無常心，以百姓心為心。善者，吾善之；不善者，吾亦善之；德善。信者，吾信之；不信者，吾亦信之；德信。聖人在天下，歙歙為天下渾其心，百姓皆注其耳目，聖人皆孩之。
 
 -   The Sage’s heart is impermanent,
--   Using ordinary people’s heart as their own.
+-   Having ordinary people’s heart as their own.
 -   
 -   To the Good, they are good towards;
 -   To the Not-Good, they are also good towards;
--   De (Virtuous Goodness) is trust.
+-   De (Virtuous Goodness) means trust.
 -   
--   The Sage under Heaven, without bias and transparent heart,
+-   The Sage under Heaven, without bias and transparent desires,
 -   All people pay attention with their ears and eyes,
--   the Sage is always childlike. 
+-   the Sage is always childlike.
 {:.verse}
 
 ### **50**  Life and Death
@@ -199,9 +202,9 @@ title: "2. De Jing"
 -   Those who believe in death: three out of ten;
 -   People living recklessly to their deaths: three out of ten.
 -   Why is this so?
--   Because living like so, is to perpetuate living. 
+-   Because living like so, is to perpetuate living.
 -   
--   Stories were told of individuals good at preserving life, 
+-   Stories were told of individuals good at preserving life,
 -   Traveling across the land not encountering rhinos nor tigers,
 -   Walking through armies not suffering harm from weapons;
 -   
@@ -209,12 +212,11 @@ title: "2. De Jing"
 -   Tigers have nowhere for their claws to capture,
 -   Weapons have nowhere for their edge to hold.
 -   How is this so?
--   Because death has nowhere to enter. 
+-   Because death has nowhere to enter.
 {:.verse}
 
 ### **51** De (Profound Virtue)
 道生之，德畜之，物形之，勢成之。是以萬物莫不尊道而貴德。道之尊，德之貴，夫莫之命常自然。故道生之，德畜之；長之育之；亭之毒之；養之覆之。生而不有，為而不恃，長而不宰，是謂玄德。
-
 
 -   The Dao gives birth, De (Virtue) nurtures, matter gives form, conditions complete it.  
 -   Therefore there are none that don’t honor the Dao nor esteem De (Virtue).
@@ -234,41 +236,41 @@ title: "2. De Jing"
 ### **52** Roles
 天下有始，以為天下母。既得其母，以知其子，既知其子，復守其母，沒身不殆。塞其兌，閉其門，終身不勤。開其兌，濟其事，終身不救。見小曰明，守柔曰強。用其光，復歸其明，無遺身殃；是為習常。
 
--   The world has a beginning, with things recognizing it as mother. 
--   Know the mother in order to know what it means to be a son, 
+-   The world has a beginning, with things recognizing it as mother.
+-   Know the mother in order to know what it means to be a son,
 -   Knowing the role of son, means returning to protect the mother,
 -   If there’s no body, there is no danger.
 -   
 -   Shut the mouth,
 -   Close all gates,
--   Live long not laboriously.
+-   Live long and not tiresomely.
 -   
 -   Opening the mouth,
--   Meddling in affairs, 
--   A long life won’t be preserved.
+-   meddling in affairs,
+-   means to not live long.
 -   
 -   Perceiving the miniscule means insight,
 -   Protecting the soft means strength.
--   Using the light, returning back to enlightenment,
--   Leaving behind life’s calamities;
+-   Use the light, return back to enlightenment,
+-   Leave behind life’s calamities.
 -   Practice these habits constantly.
 {:.verse}
 
-### **53** Conventions
+### **53** Paved Roads
 使我介然有知，行於大道，唯施是畏。大道甚夷，而民好徑。朝甚除，田甚蕪，倉甚虛；服文綵，帶利劍，厭飲食，財貨有餘；是謂盜夸。非道也哉！
 
--   Make use of my knowledge to correctly walk aside the Great Dao, cautious of straying from it.
+-   Make use of my knowledge to correctly walk aside the Great Dao, be cautious of straying from it.
 -   
 -   The Great Dao is very accessible, yet people take paved roads.
 -   When the courts are extremely superficial,
 -   the field are overgrown with weeds,
--   the granaries empty;
+-   the granaries empty.
 -   
 -   Clothed in fine silk,
 -   Carrying sharp swords,
 -   Satiated with find food and drink,
 -   Hoarding an excesses of goods and wealth;
--   as if thieves boasting.
+-   it is as if thieves boasting.
 -   This is not the Dao!
 {:.verse}
 
@@ -277,12 +279,12 @@ title: "2. De Jing"
 
 -   Good foundations cannot be pulled out,
 -   Good embracers cannot be shed off,
--   Offsprings offering offerings will not end.
+-   Descendants giving offerings will not end.
 -   
 -   Cultivate the self within,
 -   And De (virtue) will be genuine;
--   Cultivate the family, 
--   And De (virtue) flows out;
+-   Cultivate the family,
+-   And De (virtue) will flow out;
 -   Cultivate the country,
 -   And De (virtue) will be abundant;
 -   Cultivate the Earth,
@@ -294,7 +296,7 @@ title: "2. De Jing"
 -   The Earth look after the Earth.
 -   
 -   How do I know all under Heaven will act thusly?
--   Because of this. 
+-   Because of this.
 {:.verse}
 
 ### **55** Newborn Baby
@@ -305,7 +307,7 @@ title: "2. De Jing"
 -   Ferocious beasts do not seize,
 -   Birds of prey do not snatch.
 -   
--   Weak bones, soft muscles, yet is able to grasp firmly. 
+-   Weak bones, soft muscles, yet is able to grasp firmly.
 -   Not knowing the union of Man and Woman, but is complete,
 -   this is Jing (essence) at its most.
 -   Crying all day long but is not hoarse,
@@ -332,7 +334,7 @@ title: "2. De Jing"
 -   unravel the components,
 -   become one with the light,
 -   together with dust,
--   this is called the “Profound Unity” (Xuan Tong). 
+-   this is called the “Profound Unity” (Xuan Tong).
 -   
 -   Thus, not being able to obtain it is to be intimate with it,
 -   not being able to obtain it is to be estranged from it;
@@ -340,7 +342,7 @@ title: "2. De Jing"
 -   Not being able to obtain it is harmful;
 -   Not being able to obtain it is noble,
 -   Not being able to obtain it is humbling.
--   Thus, under Heaven, it is noble. 
+-   Thus, under Heaven, it is noble.
 {:.verse}
 
 ### **57** Law and Order
@@ -349,7 +351,7 @@ title: "2. De Jing"
 -   In order to properly govern a nation,
 -   use military armies with surprise,
 -   not forcing matters into one hand.
--   How do I know this? 
+-   How do I know this?
 -   By this:
 -   
 -   When the world has many taboos, commoners become extremely poor;
@@ -373,7 +375,7 @@ title: "2. De Jing"
 
 -   When government is boring and melancholic,
 -   the commoners will be pure and honest.
--   When government is overly scrutinizing, 
+-   When government is overly scrutinizing,
 -   the commoners will be lacking in character.
 -   
 -   Calamities, ah, blessings depend on them,
@@ -399,11 +401,11 @@ title: "2. De Jing"
 -   Through moderation, one can be said to have preparations early;
 -   Preparations early means to heavily accumulate Virtue (De);
 -   Heavy accumulations of Virtue (De) is followed by nothing unrestrained;
--   Nothing unrestrained is followed by no one knowing extremes;
--   Not knowing extremes, they can have the nation as a mother;
+-   Nothing unrestrained is followed by no one knowing extremities;
+-   Not knowing extremities, they can call the nation their mother;
 -   Having the nation as their mother, they are enduring;
 -   This is called having deep roots, strong foundations,
--   Living long, eyes fixed on the Dao.
+-   To live long, with eyes fixed on the Dao.
 {:.verse}
 
 ### **60** Spirits
@@ -413,7 +415,7 @@ title: "2. De Jing"
 -   When the Dao attends to Earth, Spirits won’t act as Gods;
 -   It’s not that Spirits lack magic, it's that their magic won’t harm people;
 -   Their magic not harming people, the Sage also doesn’t harm people.
--   Both do not harm each other, thus Virtue (de) replenishes each other. 
+-   Both do not harm each other, thus Virtue (de) replenishes each other.
 {:.verse}
 
 ### **61** Great Nations
@@ -427,7 +429,7 @@ title: "2. De Jing"
 -   Thus, nations either can be below to acquiesce, or get acquiesced by being below.
 -   
 -   Great nations don’t want to double the number of mouths to feed,
--   Small nations don’t want to get involved in human politics. 
+-   Small nations don’t want to get involved in messy politics.
 -   
 -   Thus, both desires complement each other, Great nations should act humbly.
 {:.verse}
@@ -442,15 +444,15 @@ title: "2. De Jing"
 -   To those that aren’t good, why abandon them?
 -   
 -   Therefore, when a Son of Heaven is stood up,
--   and instilled are 3 ministers, 
--   even offering jade and a band of horse,
--   they are not a good an offering as the Dao.
+-   and instilled are three ministers,
+-   even offerings of jade and a band of horses,
+-   are not a good an offering as the Dao.
 -   Why did they highly value the Dao in ancient times?
 -   
 -   Is it not said:
--   {:.indent-3}Asking and receive, and if there’s guilt, it is pardoned?
+-   {:.indent-3}Ask and you shall receive, and if guilty, it can be pardoned?
 -   
--   Therefore, it is cherished under Heaven. 
+-   Therefore, it is cherished under Heaven.
 {:.verse}
 
 ### **63** Approaching Difficulties
@@ -471,7 +473,7 @@ title: "2. De Jing"
 -   Therefore, easy promises lead to scant confidence,
 -   Many easiness lead to many difficulties.
 -   
--   Thus a Sage approaches difficulties head on and ends up having none in the end. 
+-   Thus a Sage approaches difficulties head on and ends up having none in the end.
 {:.verse}
 
 ### **64** Seeds
@@ -480,29 +482,30 @@ title: "2. De Jing"
 -   What is calm is easy to grasp,
 -   what hasn’t occurred is easy to plan for.
 -   What’s fragile is easy to crumble,
--   what’s tiny is easy to disperse. 
+-   what’s tiny is easy to disperse.
 -   
 -   Take action before it occurs,
 -   take control before chaos erupts.
 -   
 -   A tree with arms embracing is born from a tiny sprout;
--   A nine-level building is built on tired soil.
--   A thousand-mile journey starts with the foot moving.
+-   A nine-level building is built on tilled soil.
+-   A thousand-mile journey starts with one foot moving.
 -   
 -   Forcing things causes losses,
--   grasping for it will inevitably fail.
+-   grasping for anything will inevitably fail.
 -   Thus the Sage engages in Wu Wei and nothing is lost;
--   grasping nothing therefore nothing fails.
+-   grasping for nothing thereby nothing fails.
 -   
--   Common people engaging in matters, 
+-   Commoners when engaging in matters,
 -   often turn their successes into failures.
 -   
 -   Being careful at the end as if it were the start,
 -   and you will have no losses at the end,
--   being a Sage means to desire no desires,
--   not esteeming hard to acquire goods;
--   Learning not to learn,
--   Returning to what the masses pass over,
+-   being a Sage means desiring no desires,
+-   not striving for hard to acquire goods;
+-   
+-   Learning not to stop learning,
+-   Returning back to what the majority pass over,
 -   To help all things return back to Zi Ran (nature),
 -   as well as not daring to force things.
 {:.verse}
@@ -510,9 +513,9 @@ title: "2. De Jing"
 ### **65** Guiding Principle
 古之善為道者，非以明民，將以愚之。民之難治，以其智多。故以智治國，國之賊；不以智治國，國之福。知此兩者亦𥡴式。常知𥡴式，是謂玄德。玄德深矣，遠矣，與物反矣，然後乃至大順。
 
--   In Ancient times, the Virtuous people of the Dao
+-   In ancient times, the Virtuous people of the Dao
 -   didn’t enlighten others,
--   but lead them to simplicity. 
+-   but lead them to simplicity.
 -   
 -   Commoners are difficult to govern,
 -   their knowledge is superflouous.
@@ -521,7 +524,7 @@ title: "2. De Jing"
 -   Not ruling a country with knowledge, the country will be fruitful.
 -   
 -   Knowing both these aspects form the guiding principle.
--   Always knowing the guiding principle, 
+-   Always knowing the guiding principle,
 -   this is called the Xuan De (Profound Virtue).
 -   
 -   Xuan De is deep, distant, and contrary to all things,
@@ -543,7 +546,7 @@ title: "2. De Jing"
 -   Thus the Sage resides above, but people aren’t burdened,
 -   They reside in the front, but people aren’t harmed.
 -   Therefore, all under Heaven happily push forward, not tiring.
--   Because there is no strife, there is none under heaven who opposes. 
+-   Because there is no strife, there is none under heaven who opposes.
 {:.verse}
 
 ### **67** Three Treasures
@@ -561,17 +564,17 @@ title: "2. De Jing"
 -   	
 -   With Compassion, I can be brave;
 -   With Frugality, I can generous;
--   Not daring to be number one, I can be always be worthy of respect. 
+-   Not daring to be number one, I can be always be worthy of respect.
 -   
 -   Today, people give up compassion in lieu of bravery;
 -   they give up frugality in lieu of splurges,
 -   give up the rear in lieu of the front.
--   ah, death! 
+-   ah, death!
 -     
 -   Therefore, compassion used in battle brings victory,
 -   and used in defense brings protection.
 -   
--   Heaven will save those, its compassion safeguards them. 
+-   Heaven will save them, its compassion safeguards them.
 {:.verse}
 
 ### **68** Non-confrontational 
@@ -584,7 +587,7 @@ title: "2. De Jing"
 -   
 -   This virtue is called being non-confrontational,
 -   said to be the power of great leaders,
--   said to be aligned with Heaven and the ancient extremities. 
+-   said to be aligned with Heaven and the ancient extremities.
 {:.verse}
 
 ### **69** Enemies 
@@ -602,7 +605,7 @@ title: "2. De Jing"
 -   Underestimating an enemy means possibly losing my treasures.
 -   
 -   Hence, when opposing forces are evenly matched,
--   the one who is sorrowful is the one who will prevail. 
+-   the one who is sorrowful is the one who will prevail.
 {:.verse}
 
 ### **70** Instructions
@@ -610,11 +613,11 @@ title: "2. De Jing"
 
 -   My words are extremely easy to know, extremely easy to follow.
 -   Yet under Heaven none is able to understand, none able to follow.
--   Words have forms, actions have lords.
+-   Words have forms, actions have commandants.
 -   
 -   It is only from lack of understanding, which is why they don’t understand me.
 -   Those who understand me are rare, and those that do are precious.
--   Being a Sage is to wear dull cloths, covering jade in the bosom.
+-   Being a Sage means wearing dull clothes, covering jade in the bosom.
 {:.verse}
 
 ### **71** Sickness
@@ -624,7 +627,7 @@ title: "2. De Jing"
 -   Not knowledgeable but thinking is sickness;
 -   By being aware of sickness is to be free of said sickness.
 -   The Sage is never sick, by being aware of what it means to be sick,
--   thus they won’t get sick.
+-   Hence they won’t get sick.
 {:.verse}
 
 ### **72** Oppression
@@ -646,7 +649,7 @@ title: "2. De Jing"
 
 -   Daring to be brave brings about death;
 -   Daring to not be brave brings about life. 
--   Of these two, which is advantageous and which harmful?
+-   Of these two, which is advantageous and which is harmful?
 -   What Heaven deems evil, who is to know the reasoning?
 -   
 -   Thus the Sage approaches both distressfully. 
