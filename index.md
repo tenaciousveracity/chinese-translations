@@ -30,6 +30,12 @@ style: home
    link="sanzijing/01.html"
 %}
 
+{% include feature-box
+   text="Personal translation of the [Heart Sutra](heart-sutra/01.html)."
+   image="logo.svg"
+   link="sanzijing/01.html"
+%}
+
 {% if site.output == "web" and output-docs == true %}
 
 {% include feature-box
